@@ -1,5 +1,8 @@
 # Currículo
 
+![Minha Foto]( https://mgcode.com.br/img/bg-img/blue_gustavo.jpeg)
+
+
 ## Dados Pessoais
 
 - **Nome:** Gustavo Alvarenga Marzoque
