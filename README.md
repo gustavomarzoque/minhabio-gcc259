@@ -1,4 +1,4 @@
-# Currículo
+# Currículo - Desenvolvimento Software Livre - GCC259 UFLA
 
 ![Minha Foto]( https://mgcode.com.br/img/bg-img/blue_gustavo.jpeg)
 
