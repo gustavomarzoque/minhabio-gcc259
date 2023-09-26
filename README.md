@@ -59,6 +59,6 @@
 
 ## Redes Sociais
 
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/joaosilva](https://www.linkedin.com/in/gustavomarzoque-a75a50202/)https://www.linkedin.com/in/gustavomarzoque-a75a50202/)
-- GitHub: [GitHub]([https://github.com/joaosilva](https://github.com/gustavomarzoque)https://github.com/gustavomarzoque)
+- LinkedIn: <https://www.linkedin.com/in/joaosilva](https://www.linkedin.com/in/gustavomarzoque-a75a50202/)https://www.linkedin.com/in/gustavomarzoque-a75a50202/>
+- GitHub: <https://github.com/joaosilva](https://github.com/gustavomarzoque)https://github.com/gustavomarzoque>
 
